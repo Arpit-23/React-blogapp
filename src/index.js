@@ -7,6 +7,7 @@ import AppContextProvider from './context/AppContext';
 import { BrowserRouter } from 'react-router-dom';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
+//apply change for git
 root.render(
  <BrowserRouter>
    <AppContextProvider>
